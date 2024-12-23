@@ -1,0 +1,6 @@
+@HybridCaching_.NET9_HostAddress = http://localhost:5161
+
+GET {{HybridCaching_.NET9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
